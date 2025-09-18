@@ -9,3 +9,4 @@ Repositório para documentação do aplicativo mobile do jogo desenvolvido pela 
 ## Instruções para Rodar o aplicativo(Localmente)
 
 ## Súmario
+ - [Home](https://github.com/Bruno616/Mobile-Codimbus/wiki)
