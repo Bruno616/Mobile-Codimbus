@@ -9,17 +9,17 @@ Aplicativo complementar ao jogo *Talassofobia*, desenvolvido em **Flutter/Dart**
 ## Instruções para Rodar o aplicativo(Localmente)
 
 ## Súmario
- -   [1. Informações Gerais](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto)</br> 
-    -   [1.1. Indrodução](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#11-introdução)
-    -   [1.2. Justificativa](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#12-justificativa)
-    -   [1.3. Objetivos](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#13-objetivos)
+-   [1. Informações Gerais](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto)<br> 
+    -  	[1.1. Indrodução](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#11-introdução)
+    -  	[1.2. Justificativa](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#12-justificativa)
+    -  	[1.3. Objetivos](https://github.com/Bruno616/Mobile-Codimbus/wiki/1.-Visão-geral-do-Projeto#13-objetivos)
    
 -   [2. Análise e Requisitos](https://github.com/Bruno616/Mobile-Codimbus/wiki/2.-Análise-e-Requisitos)</br>
     -   [2.1. Requisitos Funcionais](https://github.com/Bruno616/Mobile-Codimbus/wiki/2.-Análise-e-Requisitos#21-requisitos-funcionais)
     -   [2.2. Requisitos Não Funcionais](https://github.com/Bruno616/Mobile-Codimbus/wiki/2.-Análise-e-Requisitos#22-requisitos-não-funcionais)
   
 -   [3. Design e Estrutura](https://github.com/Bruno616/Mobile-Codimbus/wiki/3.-Design-e-Estrutura)</br>
-	  -   [3.1. Prototipagem Visual](https://github.com/Bruno616/Mobile-Codimbus/wiki/3.-Design-e-Estrutura#31-prototipagem-visual)
+	-   [3.1. Prototipagem Visual](https://github.com/Bruno616/Mobile-Codimbus/wiki/3.-Design-e-Estrutura#31-prototipagem-visual)
     -   [3.2. Diagrama de Classes](https://github.com/Bruno616/Mobile-Codimbus/wiki/3.-Design-e-Estrutura#32-diagrama-de-classes)
     -   [3.3. Organização das Pastas e Componentes](https://github.com/Bruno616/Mobile-Codimbus/wiki/3.-Design-e-Estrutura#33-organização-das-pastas-e-componentes)
   
