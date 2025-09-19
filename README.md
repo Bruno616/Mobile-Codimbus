@@ -1,5 +1,5 @@
 # Mobile-Codimbus
-O Talassofobia Mobile é um aplicativo desenvolvido em Flutter/Dart como complemento ao jogo Talassofobia. Ele funciona como um manual digital offline, reunindo de forma organizada todas as informações relevantes sobre o universo do jogo. Com ele, os jogadores têm acesso rápido e prático a detalhes sobre armas, inimigos e cenários, além de curiosidades e imagens ilustrativas, o que amplia a imersão e a experiência de gameplay.
+Aplicativo complementar ao jogo *Talassofobia*, desenvolvido em **Flutter/Dart**, que funciona como um **guia digital offline**. Aqui o jogador encontra informações completas sobre **armas, inimigos e cenários**, com descrições, curiosidades e imagens ilustrativas.
 
 ## Tecnologias utilizadas:
 - Flutter: Framework utilizado em conjunto ao dart para desenvolvimento do app mobile
