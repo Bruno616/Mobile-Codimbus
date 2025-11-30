@@ -1,0 +1,104 @@
+{
+  "telaInicial": {
+    "historia": {
+      "imagemCapa": "imagens/capa.png",
+      "texto": "Nebus e Kaio são enviados ao Triângulo das Bermudas para investigar anomalias misteriosas. Após o desaparecimento de Kalo, Nebus enfrenta criaturas marinhas e começa a se transformar. Mesmo perdendo sua humanidade, ele continua buscando o amigo. Dias depois, a equipe de resgate encontra apenas um baú flutuando. Nas profundezas, uma nova criatura agora habita o oceano."
+    },
+    "comoJogarTitulo": "Como Jogar",
+    "dicas": [
+      {
+        "titulo": "Dica 1",
+        "texto": "Explore o oceano misterioso usando Nebus, enquanto busca por Kalo. Use equipamentos de mergulho e preste atenção nos sinais do ambiente.",
+        "imagemPosicao": "lado",
+        "imagem": "imagens/dica1.png"
+      },
+      {
+        "titulo": "Dica 2",
+        "texto": "Cuidado com as criaturas das profundezas. Algumas delas podem te transformar ou te atrair para lugares desconhecidos.",
+        "imagemPosicao": "lado",
+        "imagem": "imagens/dica2.jpg"
+      },
+      {
+        "titulo": "Dica 3",
+        "texto": "Explore o cenário, encontre artefatos perdidos e descubra o que realmente aconteceu no Triângulo das Bermudas.",
+        "imagemPosicao": "lado",
+        "imagem": "imagens/dica3.jpeg"
+      }
+    ]
+  },
+
+  "armas": [
+    {
+      "nome": "Tridente",
+      "tipo": "corpo a corpo",
+      "imagens": [
+        "tridente.png",
+        "tridente2.png"
+      ],
+      "resumo": "O tridente é uma arma de combate corpo a corpo usada ao longo da jornada. Ele é eficaz contra criaturas aquáticas, permitindo ao jogador enfrentar inimigos mais perigosos nas profundezas do oceano.",
+      "curiosidades": "Acredita-se que tridentes fossem usados na antiguidade para caça submarina e rituais cerimoniais."
+    }
+  ],
+
+  "inimigos": [
+    {
+      "nome": "Psychlaena",
+      "imagens": ["pol1.jpg", "pol2.jpg", "pol3.jpg"],
+      "dificuldade": "4/5",
+      "habilidades": "Raio psíquico, telecinese",
+      "resumo": "Inspirado em um polvo, Psychlaena usa seus anéis no corpo para lançar raios psíquicos e telecinese, fazendo com que o jogador se mova lentamente na água e jogando objetos do cenário contra ele.",
+      "curiosidade": "Espécie inspirada no polvo de aneis azuis, que possui um veneno muito poderoso e possui 12cm"
+    },
+    {
+      "nome": "Shrimp Tyson",
+      "imagens": ["cam1.jpg", "cam2.jpg", "cam3.jpg"],
+      "dificuldade": "3/5",
+      "habilidades": "Socos rápidos e fortes, lança tiro de água",
+      "resumo": "Inspirado em um camarão pistola, Shrimp Tyson usa uma combinação de socos rápidos e um braço especializado para lançar tiros de água de alta pressão.",
+      "curiosidade": "Espécie inspirada no camarão pistola, famoso por sua habilidade de gerar sons altos ao estourar bolhas de ar."
+    },
+    {
+      "nome": "Gladish",
+      "imagens": ["esp1.png", "esp2.jpg", "esp3.jpg"],
+      "dificuldade": "4/5",
+      "habilidades": "Criação de mini versões de si mesmo, barreiras, projéteis",
+      "resumo": "Inspirado no peixe espada, Gladish utiliza seu corpo afiado como uma lâmina para se mover rapidamente pela água e gerar mini versões de si mesmo. Ele também cria barreiras e lança projéteis contra o jogador.",
+      "curiosidade": "Espécie inspirada no peixe espada, conhecido por sua velocidade e habilidades de combate corpo a corpo."
+    },
+    {
+      "nome": "Glimmering Doom",
+      "imagens": ["pesc1.png", "pesc2.jpg", "pesc3.jpg"],
+      "dificuldade": "5/5",
+      "habilidades": "Isca de luz, ataques de mordida, ilusões",
+      "resumo": "Inspirado no peixe pescador, Glimmering Doom usa sua isca que imita o amigo do jogador para atrair e enganar a vítima. Sua forma verdadeira é revelada após uma luta contra a ilusão, e ele ataca com mordidas e luzes cegantes.",
+      "curiosidade": "Espécie inspirada no peixe pescador, famoso por sua isca luminosa usada para atrair presas."
+    }
+  ],
+
+  "cenarios": [
+    {
+      "nome": "Caverna dos Corais",
+      "descricao": "Uma caverna submersa se abre nas profundezas do oceano, esculpida ao longo dos séculos por correntes titânicas. Suas paredes azul-acinzentadas, irregulares e sombrias, exibem camadas de sal, algas fosforescentes e símbolos quase apagados — círculos, estrelas e traços que sugerem antigos registros esquecidos. Estalactites pontiagudas descem do teto como dentes de uma criatura adormecida, e gotas ocasionais ecoam suavemente pelos túneis. A entrada é ladeada por corais cristalinos de tons azulados e lilases, que brilham como chamas submersas. Pequenos pontos rosados flutuam na água, criando um leve halo ao redor das formações. Mas, conforme se avança, a luz se esvai, dando lugar a sombras densas e reflexos distorcidos na rocha úmida. A grande fenda escura no interior da caverna parece pulsar em silêncio, gerando a sensação inquietante de que o ambiente inteiro observa, vivo e imóvel ao mesmo tempo.",
+      "imagem": "cen1.jpg",
+      "curiosidade": "Detalhes específicos incluem corais cristalinos que brilham como chamas submersas e símbolos quase apagados nas paredes."
+    },
+    {
+      "nome": "Caverna das Três Passagens",
+      "descricao": "Uma câmara ampla e silenciosa se abre em três fendas naturais, moldadas pela erosão ao longo de eras. As paredes, em tons azulados e acinzentados, carregam um brilho úmido que reflete a pouca luz existente. Estalactites grossas e irregulares pendem do teto como presas congeladas, projetando sombras tortas sobre o solo pedregoso. A iluminação é fraca e difusa, vinda de pequenas manchas luminosas nos fungos dispersos pelo chão e pelos cantos, criando áreas nebulosas onde o olhar falha em distinguir formas. Cada uma das três passagens parece ter sua própria presença: uma mais escura, outra mais densa, outra quase silenciosa demais — como se a caverna testasse quem atravessa seus limites. O ar é pesado, carregando odores minerais e algo quase orgânico vindo das profundezas. Em certos pontos, marcas no solo e pequenos fungos amassados sugerem conflitos ou movimentos recentes, algo que passou por ali e não deixou testemunhas.",
+      "imagem": "cen2.jpg",
+      "curiosidade": "Detalhes incluem fungos luminosos espalhados pelas paredes e uma atmosfera densa e de tensão com ecos metálicos e gemidos abafados."
+    },
+    {
+      "nome": "Penhascos Tempestuosos",
+      "descricao": "Nas entranhas da terra, uma vasta caverna escura se estende diante dos olhos. O chão irregular, coberto por rochas e pedras quebradas, segue por um caminho sinuoso e estreito, desaparecendo na escuridão. A única luz que ilumina a cena vem de formações minerais geladas que emergem do solo, reluzindo em um tom de azul pálido, como se fossem feitas de gelo ou cristal. O ambiente é denso e opressor, com o ar carregado de uma sensação de frieza e mistério. As paredes da caverna são feitas de rochas ásperas e cobertas por marcas de desgaste, enquanto estalactites afiladas se projetam das alturas, criando um labirinto natural. A atmosfera é carregada de tensão, e cada som ecoa de maneira amplificada, como se o próprio terreno estivesse vivo e observando os intrusos.",
+      "imagem": "cen3.jpg",
+      "curiosidade": "Formações minerais geladas e o ambiente denso criam uma atmosfera de mistério e tensão, com estalactites afiadas formando um labirinto natural."
+    },
+    {
+      "nome": "Labirinto das Ilusões",
+      "descricao": "O ambiente é composto por um corredor subterrâneo estreito e de difícil navegação, com paredes formadas por rochas irregulares e de diferentes dimensões. As superfícies são ásperas e desiguais, com algumas áreas salientes que dificultam o movimento e aumentam o risco de tropeços e no final um labirinto luminoso onde as paredes são feitas de luz e que ficam constantemente piscando para confundir o jogador. A iluminação é mínima, proveniente de pontos dispersos de bioluminescência nas rochas e no solo. Essas fontes de luz geram um brilho suave e intermitente, iluminando pequenas áreas de forma irregular, o que resulta em uma visibilidade limitada e sombras que se estendem e se deslocam conforme a luz oscila. O chão é composto por uma camada de detritos minerais e pedras soltas, o que torna o terreno instável e difícil de percorrer com precisão.",
+      "imagem": "cen4.jpg",
+      "curiosidade": "Detalhes específicos incluem o labirinto de luz piscante e a percepção alterada do espaço devido à iluminação instável e formas geométricas ilusórias."
+    }
+  ]
+}
